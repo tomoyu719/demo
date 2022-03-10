@@ -1,0 +1,6 @@
+venv/
+outputs/
+old/
+mecab-ipadic-neologd/
+__pycache__/
+.python-version

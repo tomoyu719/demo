@@ -1,0 +1,5 @@
+mecab-python3==1.0.5
+nltk==3.7
+tensorflow==2.8.0
+tensorflow-datasets==4.5.2
+ipadic==1.0.0
